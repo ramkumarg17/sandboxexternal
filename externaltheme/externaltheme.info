@@ -1,0 +1,10 @@
+name = "externaltheme"
+core = "7.x"
+engine = "phptemplate"
+
+stylesheets[screen][] = "style.css"
+
+base theme = "stark"
+
+
+
